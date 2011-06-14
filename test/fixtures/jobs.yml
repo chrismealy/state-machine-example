@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyString
+  status: 1
+  expires_at: 2011-04-24 12:15:08
+
+two:
+  title: MyString
+  status: 1
+  expires_at: 2011-04-24 12:15:08

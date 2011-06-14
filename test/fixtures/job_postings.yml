@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  job: 
+  expires_at: 2011-04-24 12:15:36
+
+two:
+  job: 
+  expires_at: 2011-04-24 12:15:36

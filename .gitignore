@@ -1,0 +1,57 @@
+######################################## Unique to hol 
+/public/assets
+/db/sphinx/
+/solr/
+/vendor/plugins/responds_to_parent
+rails_best_practices_output.html
+
+######### all copied from https://github.com/github/gitignore
+
+######################################## ruby
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+config/database.yml
+rerun.txt
+/doc
+/.yardoc
+rails_best_practices_output.html
+######################################## emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+
+######################################## mac os x
+.DS_Store?
+*.DS_Store*
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+webrat.log
+/public/uploads
+
+######################################## other
+/bin/reload-hol-data
+/doc/schema/tables
+/nbproject
